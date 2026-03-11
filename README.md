@@ -1,16 +1,16 @@
-## Hi there 👋
+<pre>
+identity = {
+    &quot;status&quot;: &quot;Learning Python&quot;,
+    &quot;goal&quot;: &quot;Mastering the backend&quot;,
+    &quot;motto&quot;: &quot;Simple is better than complex&quot;
+}
 
-<!--
-**nicki8nn/nicki8nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def current_activity():
+    while True:
+        study_python()
+        if bugs_found:
+            fix_it()
+        else:
+            print(&quot;Python is awesome!&quot;)
+            break
+<pre>
